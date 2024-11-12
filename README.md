@@ -19,9 +19,9 @@ Actualmente, estoy aprendiendo y mejorando mis habilidades en diversos lenguajes
 - **Frameworks y Herramientas**: Django, Ionic Angular, y prácticas de bases de datos relacionales (MySQL).
 
 ### 🌱 Proyectos Destacados
-- **[Uber-clone]: Aplicación desarrollada con Ionic Angular para la creación y gestión de viajes de pasajeros, con confirmación de viajes vía WhatsApp.
-- **[CRUD-PHP]: Ejemplo de una aplicación CRUD en PHP, que muestra mis habilidades en el desarrollo backend con PHP.
-- **[Django-google-login]: Implementación de un sistema de login en Django con autenticación de Google.
+- **[Uber-clone](https://github.com/4d0lf00/Uber-clone): Aplicación desarrollada con Ionic Angular para la creación y gestión de viajes de pasajeros, con confirmación de viajes vía WhatsApp.**
+- **[CRUD-PHP](https://github.com/4d0lf00/CRUD-PHP): Ejemplo de una aplicación CRUD en PHP, que muestra mis habilidades en el desarrollo backend con PHP.**
+- **[Django-google-login](https://github.com/4d0lf00/Django-google-login): Implementación de un sistema de login en Django con autenticación de Google.**
 
 ### 📫 Contacto
 - **Email**: [adolfoignacio.vg@gmail.com](mailto:adolfoignacio.vg@gmail.com)
